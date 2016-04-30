@@ -1,0 +1,10 @@
+* Login
+* SignUp
+* ViewClothes
+* AddNewForm
+* TypeFilter
+* ColorFilter
+* LastWornFilter
+* AboutApp
+* ProfileInfo
+* Settings
