@@ -1,7 +1,7 @@
 {
-  "name": "nychealth-battle",
+  "name": "purple_boom",
   "version": "0.1.0",
-  "description": "nyc health battle app with hot reload",
+  "description": "make your closet awesome",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",

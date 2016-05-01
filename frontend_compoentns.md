@@ -1,5 +1,5 @@
 * Login
-* SignUp
+* Signup
 * ViewClothes
 * AddNewForm
 * TypeFilter
